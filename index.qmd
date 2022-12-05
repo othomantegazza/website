@@ -1,0 +1,17 @@
+---
+title: "Otho's Website"
+---
+
+Hi! Very nice to meet you, I’m Otho
+
+Science, statistics and communication are my passions.
+
+I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That’s why I dedicated my studies to it, specializing in plant molecular genetics.
+
+I love statistics and I love data. Data are one of the languages of science; statistics is a collection of sharp tricks to make sense of complex data. With a good statistical mindset, you can always get some insights out of data, no matter how complex they are. That’s why I always focused on quantitative aspects: genetics, phenotypes, transcriptomes.
+
+I love communication, it lets everything come to life. Communicating with other people, you have higher chances to identify problems and phenomena that are worth studying and solving. And only by communicating your results effectively, you have the chance that your hard work as a scientist will reach the people that need it and will have an impact. That’s why I’ve been working for 3 years in an information design studio, learning how to represent data graphically, that’s why I love data driven communication tools, such as literate programming.
+
+And it is the small problems that affect the every day lives of people that surround us are the most satisfying to solve. And luckily there are many.
+
+If feel like me, it would be great to collaborate! Write me! :)
