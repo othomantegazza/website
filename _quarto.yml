@@ -7,6 +7,13 @@ project:
   preview:
     port: 4200
 
+
+format:
+  html:
+    theme: default
+    css: style/custom.scss
+    #page-layout: custom
+
 execute:
   freeze: auto
 
