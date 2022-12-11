@@ -1,18 +1,37 @@
 project:
-  title: "Otho's Website"
+  title: "Otho Mantegazza"
   type: website
   output-dir: docs
   render:
     - index.qmd
+    - content/*.qmd
   preview:
     port: 4200
-
 
 format:
   html:
     theme: default
     css: style/custom.scss
-    #page-layout: custom
+
+website:
+  sidebar:
+    style: "docked"
+    background: "white"
+    foreground: "black"
+    search: false
+    contents:
+      - section: "Portfolio"
+        contents: 
+          - text: "Projects"
+            file: content/projects.qmd
+          - text: "Trainings"
+            file: content/trainings.qmd
+      - text: "CV"
+        file: content/cv.qmd
+      - text: "Else"
+        file: content/else.qmd
+      - text: "Contact"
+        file: content/contact.qmd
 
 execute:
   freeze: auto
