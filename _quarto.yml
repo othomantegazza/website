@@ -12,6 +12,7 @@ format:
   html:
     theme: default
     css: style/custom.scss
+    fontsize: 24px
 
 website:
   sidebar:
@@ -30,6 +31,8 @@ website:
         file: content/cv.qmd
       - text: "Else"
         file: content/else.qmd
+      - text: "Values / Ethics"
+        file: content/values.qmd
       - text: "Contact"
         file: content/contact.qmd
 

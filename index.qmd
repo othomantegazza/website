@@ -2,19 +2,18 @@
 title: ""
 ---
 
-<img id="my-pic" src="img/id-pic.jpg" alt="A picture of myself"> 
+<img src="img/id-pic.jpg" alt="A picture of myself" id="my-pic"/>
 
-Very nice to meet you, I’m Otho
+Very nice to meet you, I'm Otho
 
 Science, statistics and communication are my passions.
 
-I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That’s why I dedicated my studies to it, specializing in plant molecular genetics.
+I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That's why I dedicated my studies to it, specializing in plant molecular genetics.
 
-I love statistics and I love data. Data are one of the languages of science; statistics is a collection of sharp tricks to make sense of complex data. With a good statistical mindset, you can always get some insights out of data, no matter how complex they are. That’s why I always focused on quantitative aspects: genetics, phenotypes, transcriptomes.
+I love data and statistics. Data is to science like water to a thirsty land. Statistics is a collection of valuable tools to make sense of complex data. With a good statistical mindset, you can always get some insights out of data, no matter how complex they are. That's why I always focused on the quantitative aspects of genetics, such as phenotypes, transcriptomes.
 
-I love communication, it lets everything come to life. Communicating with other people, you have higher chances to identify problems and phenomena that are worth studying and solving. And only by communicating your results effectively, you have the chance that your hard work as a scientist will reach the people that need it and will have an impact. That’s why I’ve been working for 3 years in an information design studio, learning how to represent data graphically, that’s why I love data driven communication tools, such as literate programming.
+I love communication, it lets everything come to life. Only when you communicate with other people, you have chances to identify problems and phenomena that are worth studying and solving. And when you communicate your results effectively, you have the chance that your hard work as a scientist will reach the people that need it have an impact. That's why I've been working for 3 years in an information design studio, learning how to communicate data graphically.
 
-And it is the small problems that affect the every day lives of people that surround us are the most satisfying to solve. And luckily there are many.
+And it is the small problems that affect every day lives that are the most satisfying to solve. And luckily there are many.
 
-If feel like me, it would be great to collaborate! Write me! :)
-
+If you feel like me, it would be great to collaborate!
