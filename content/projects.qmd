@@ -1,3 +1,11 @@
 ---
 title: "Projects"
 ---
+
+--- 
+
+{{< include projects/_project.qmd >}}
+
+{{< include projects/_project.qmd >}}
+
+{{< include projects/_project.qmd >}}

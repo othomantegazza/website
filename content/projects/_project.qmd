@@ -1,0 +1,17 @@
+:::: {.grid }
+
+::: {.g-col-12 .g-col-xl-4 .proj-img}
+Some image
+:::
+
+::: {.g-col-12 .g-col-xl-4 .proj-info}
+Some project
+:::
+
+::: {.g-col-12 .g-col-xl-4 .proj-description}
+Something else
+:::
+
+::::
+
+------------------------------------------------------------------------

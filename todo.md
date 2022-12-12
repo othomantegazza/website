@@ -1,7 +1,8 @@
 # To Do
 
--   [ ] remove column layout
+- [ ] portfolio layout
 
 # Done
 
--   [ ] 
+- [x] review main page
+- [x] remove column layout
