@@ -2,9 +2,12 @@
 title: "Projects"
 ---
 
---- 
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="../js/projectsMake.js"></script>
+<script src="projects/projects-data.js"></script>
 
-{{< include projects/_project.qmd >}}
+
+{{< include projects/_project.qmd >}} 
 
 {{< include projects/_project.qmd >}}
 
