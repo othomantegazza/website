@@ -1,11 +1,33 @@
-#my-pic {
-  display: block;
-  border-radius: 50%;
-  width: 214px;
+/*-- scss:defaults --*/
+
+@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap);
+
+/*-- scss:mixins --*/
+
+
+/*-- scss:rules --*/
+
+p {
+  font: lato !important;
+  font-weight: 100;
+}
+
+img#my-pic {
+  display: block !important;
+  border-radius: 50% !important;
+  width: 214px !important;
+}
+
+.project-img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 2%;
+  border: dotted 1px black;
 }
 
 div[class*="proj-"] {
-  background-color: yellow;
+  /* background-color: #fafafa; */
+  border-radius: 2%;
 }
 
 @media (width < 800px) {

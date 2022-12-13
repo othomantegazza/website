@@ -1,7 +1,11 @@
-:::: {.grid }
+--------------------------------
+
+### Project Name {.project-card}
+
+::: {.grid }
 
 ::: {.g-col-12 .g-col-xl-4 .proj-img}
-Some image
+<img src="projects/_project.png" alt="A picture of myself" class="project-img"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-4 .proj-info}
@@ -12,6 +16,4 @@ Some project
 Something else
 :::
 
-::::
-
-------------------------------------------------------------------------
+:::
