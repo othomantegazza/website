@@ -1,19 +1,48 @@
---------------------------------
+------------------------------------------------------------------------
 
 ### Project Name {.project-card}
 
-::: {.grid }
-
+::: grid
 ::: {.g-col-12 .g-col-xl-4 .proj-img}
-<img src="projects/_project.png" alt="A picture of myself" class="project-img"/>
+
 :::
 
 ::: {.g-col-12 .g-col-xl-4 .proj-info}
-Some project
+
+**Year**: project-year
+
+**Stack**: tech stack
+
+**Where**: where was the project made
+
+**Web page**: home page of the project
+
+**Source code**: project repo
+
 :::
 
 ::: {.g-col-12 .g-col-xl-4 .proj-description}
-Something else
+**Description**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+:::
 :::
 
-:::
+```{r}
+#| echo: false
+#| results: asis
+
+# <img src="projects/_project.png" alt="A picture of the project" class="project-img"/>
+tst <- function() {
+  a <- 
+    glue::glue("ciao:", "- **ciao**", "- ciao", .sep = "<br>")
+  
+  cat("::: {.test}",a, ":::", sep = '\n')
+}
+
+tst()
+```
+
+
+```{r}
+knitr::kable(mtcars)
+```
+
