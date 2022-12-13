@@ -1,11 +1,36 @@
 ---
 title: "Projects"
+editor_options: 
+  chunk_output_type: console
 ---
 
---- 
+```{r}
+#| echo: false
+source(
+  here::here('R/make-content-component.R')
+) 
+proj_data <-
+  jsonlite::read_json(
+  here::here('content/data/projects.json')
+  ) 
+```
 
-{{< include projects/_project.qmd >}}
+---
 
-{{< include projects/_project.qmd >}}
+### Project Name {.project-card}
 
-{{< include projects/_project.qmd >}}
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
+```
+
+---
+
+### Project Name {.project-card}
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
+```
