@@ -15,6 +15,10 @@ format:
     fontsize: 24px
 
 website:
+  page-footer:
+    left:
+      - text: "License"
+        href: content/license.qmd
   sidebar:
     style: "docked"
     background: "white"
@@ -35,6 +39,10 @@ website:
         file: content/values.qmd
       - text: "Contact"
         file: content/contact.qmd
+
+
+      
+      
 
 execute:
   freeze: auto
