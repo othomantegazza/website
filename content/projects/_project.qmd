@@ -30,19 +30,6 @@
 #| echo: false
 #| results: asis
 
-# <img src="projects/_project.png" alt="A picture of the project" class="project-img"/>
-tst <- function() {
-  a <- 
-    glue::glue("ciao:", "- **ciao**", "- ciao", .sep = "<br>")
-  
-  cat("::: {.test}",a, ":::", sep = '\n')
-}
 
-tst()
-```
-
-
-```{r}
-knitr::kable(mtcars)
 ```
 
