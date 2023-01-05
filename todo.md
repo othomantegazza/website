@@ -1,6 +1,10 @@
 # To Do
 
-- [ ] Review projects responsive layout
+- [ ] video project covers
+  - [x] select format
+  - [x] add video
+  - [x] fit
+  - [ ] justify top
 - [ ] Offers
 
 # Done
@@ -9,3 +13,5 @@
 - [x] portfolio layout
 - [x] remove column layout
 - [x] Copyright and License footnote
+- [x] Review projects responsive layout
+- [x] Tighter layout for text pages
