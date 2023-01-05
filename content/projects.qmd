@@ -11,7 +11,7 @@ source(
 ) 
 proj_data <-
   jsonlite::read_json(
-  here::here('content/data/projects.json')
+    here::here('content/data/projects.json')
   ) 
 ```
 
@@ -22,7 +22,7 @@ proj_data <-
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
+make_project_comp(proj_data = proj_data, proj_title = "milanoAirQ")
 ```
 
 ---
