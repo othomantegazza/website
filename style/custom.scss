@@ -23,11 +23,13 @@ img#my-pic {
 /* project component*/
 
 video {
-  max-width: 100%;
+  width: 100%;
+  max-width: 412px;
   max-height: 100%;
   padding: 10px;
   background-color: black;
   border-radius: 2%;
+  margin-bottom: 24px;
 }
 
 
