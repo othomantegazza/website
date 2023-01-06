@@ -6,7 +6,6 @@ make_project_comp <- function(proj_data, proj_title) {
   cat(
     '<div class="grid">',
     '<div class="hidden-sm g-col-sm-6 g-col-xl-4 project-cover}">',
-    # glue::glue('<img src="{proj$image_path}" alt="A picture of the project" class="project-img"/>'),
     '<video autoplay muted loop>',
     glue::glue('<source src="{proj$image_path}" type="video/webm">'),
     '</video>',
