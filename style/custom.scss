@@ -34,6 +34,14 @@ div[class*="proj-"] {
   font-size: 70%;
 }
 
+.g-col-12.proj-info {
+  line-height: 50px;
+}
+
+.g-col-sm-6.proj-info {
+  line-height: 18px;
+}
+
 /*
 @media (width < 800px) {
   .proj-img {
