@@ -4,16 +4,16 @@ make_project_comp <- function(proj_data, proj_title) {
   proj <- purrr::pluck(proj_data, proj_title)
   
   cat(
-    '<div class="grid">',
-      '<div class="g-col-12 g-col-sm-6 g-col-xl-4 project-cover}">',
+    '<div class="grid" style="--bs-columns: 6;">',
+      '<div class="g-col-6 g-col-sm-3 g-col-xl-2 project-cover">',
       '<video autoplay muted loop>',
       glue::glue('<source src="{proj$image_path}" type="video/webm">'),
       '</video>',
     # glue('{{< video  >}}'),
     '</div>',
-    '<div class=" g-col-12 g-col-sm-6 g-col-xl-8">',
-      '<div class="grid">',
-        '<div class="g-col-12 g-col-xl-6 proj-info">',
+    '<div class=" g-col-6 g-col-sm-3 g-col-xl-4">',
+      '<div class="grid" style="--bs-columns: 2;">',
+        '<div class="g-col-2 g-col-xl-1 proj-description">',
           glue::glue(
             "**Year**: {proj$info$year}",
             "**Place**: {proj$info$place}",
@@ -23,7 +23,7 @@ make_project_comp <- function(proj_data, proj_title) {
             .sep = "<br>"
           ),
         '</div>',
-        '<div class="g-col-12 g-col-xl-6 proj-description">',
+        '<div class="g-col-2 g-col-xl-1 proj-description">',
           glue::glue("**Description**: ", proj$description$content),
         '</div>',
       '</div>',
