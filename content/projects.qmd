@@ -18,7 +18,10 @@ source(
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_yaml = 'data/milan-airquality.yaml', vid_cover = T)
+make_project_comp(
+  proj_yaml = here::here('content/data/milan-airquality.yaml'),
+  vid_cover = T
+)
 ```
 
 <hr>
@@ -28,7 +31,10 @@ make_project_comp(proj_yaml = 'data/milan-airquality.yaml', vid_cover = T)
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_yaml = 'data/fluidigr.yaml', vid_cover = F)
+make_project_comp(
+  proj_yaml = here::here('content/data/fluidigr.yaml'),
+  vid_cover = F
+)
 ```
 
 <hr>
@@ -38,6 +44,21 @@ make_project_comp(proj_yaml = 'data/fluidigr.yaml', vid_cover = F)
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_yaml = 'data/ptrapr.yaml', vid_cover = F) 
+make_project_comp(
+  proj_yaml = here::here('content/data/ptrapr.yaml'),
+  vid_cover = F
+) 
 ```
 
+<hr>
+
+### Sunday Blues Blog
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('content/data/sunday-blues.yaml'),
+  vid_cover = T
+) 
+```

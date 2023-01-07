@@ -1,8 +1,6 @@
 # To Do
 
-- [ ] Get a better CMS than a json (hard to edit) commited on Github
 - [ ] Pills for technological stack
-- [ ] Projects with no video ==> Img or video slideshow webm
 - [ ] Offers
 
 # Done
@@ -18,3 +16,5 @@
   - [x] add video
   - [x] fit
   - [x] justify top
+- [x] Projects with no video ==> Img or video slideshow webm
+- [x] Get a better CMS than a json (hard to edit) committed on Github
