@@ -18,7 +18,7 @@ make_project_comp <- function(proj_data, proj_title) {
             "**Year**: {proj$info$year}",
             "**Place**: {proj$info$place}",
             "**Stack**: {proj$info$stack}",
-            "**URL**: {proj$info$url}",
+            "**Project URL**: {proj$info$url}",
             "**Source Code**: {proj$info$source}",
             .sep = "<br>"
           ),

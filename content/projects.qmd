@@ -17,7 +17,7 @@ proj_data <-
 
 ---
 
-### Project Name {.project-card}
+### Milan Air Quality Dashboard
 
 ```{r}
 #| echo: false  
