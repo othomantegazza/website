@@ -1,6 +1,6 @@
 ---
-title: Milan Air Quality Dashboard
-video_path: data/proj-img/milano-air-quality.webm
+title: Fluidigr
+image_path: data/proj-img/fluidigr.png
 year: 2022
 place: Milan
 stack: Quarto, GGplot2, GGiraph, Github Actions.

@@ -7,24 +7,26 @@ editor_options:
 ```{r}
 #| echo: false
 source(
-  here::here('R/make-content-component.R')
+  here::here('R/make-content-component.R') 
 )
 ```
+
+<hr>
 
 ### Milan Air Quality Dashboard
 
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_yaml = 'data/milan-airquality.yaml')
+make_project_comp(proj_yaml = 'data/milan-airquality.yaml', vid_cover = T)
 ```
 
----
+<hr>
 
-### Project Name {.project-card}
+### Fluidigr {.project-card}
 
 ```{r}
 #| echo: false  
 #| results: asis 
-# make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
+make_project_comp(proj_yaml = 'data/fluidigr.yaml', vid_cover = F)
 ```
