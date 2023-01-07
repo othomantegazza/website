@@ -1,11 +1,13 @@
 ---
 title: Fluidigr
 image_path: data/proj-img/fluidigr.png
-year: 2018
+year: 2017
 place: Montpellier, IRD
 stack: R package, qPCR.
 url: "[link 1](https://othomantegazza.github.io/fluidgr/)"
 source: "[Github - Fluidigr](https://github.com/othomantegazza/fluidigr)"
 description: >
-  An R package to parse, normalize and visualize gene expression data from high throughput real-time qPCR data.
+  An R package to parse, normalize and visualize gene expression data
+  from [high throughput real-time qPCR](https://www.standardbio.com/products-services/instruments/x9-real-time-pcr-system)
+  data.
 ---
