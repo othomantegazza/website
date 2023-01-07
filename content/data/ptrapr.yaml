@@ -1,0 +1,16 @@
+---
+title: Ptrapr
+image_path: data/proj-img/ptrapr.png
+year: 2018
+place: Montpellier, IRD
+stack: R package, igraph phenotyping.
+url: "[link 1](https://othomantegazza.github.io/ptrapr/)"
+source: "[Github - Fluidigr](https://github.com/othomantegazza/ptrapr)"
+description: >
+  An R package to analize the topology of rice panicles.
+  The topology of  African and Asian rice panicles changed when they were domesticated,
+  adapting to farmer's needs.
+  Panicle topology can be detected and measured with a software from IRD,
+  named [P-trap](https://bioinfo.ird.fr/index.php/tools-fr/),
+  the R package ptrapr, parses and analyzes the output of P-trap.
+--- 

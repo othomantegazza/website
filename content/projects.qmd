@@ -30,3 +30,14 @@ make_project_comp(proj_yaml = 'data/milan-airquality.yaml', vid_cover = T)
 #| results: asis 
 make_project_comp(proj_yaml = 'data/fluidigr.yaml', vid_cover = F)
 ```
+
+<hr>
+
+### Ptrapr
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(proj_yaml = 'data/ptrapr.yaml', vid_cover = F) 
+```
+
