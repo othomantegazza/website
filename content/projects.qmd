@@ -8,21 +8,15 @@ editor_options:
 #| echo: false
 source(
   here::here('R/make-content-component.R')
-) 
-proj_data <-
-  jsonlite::read_json(
-    here::here('content/data/projects.json')
-  ) 
+)
 ```
-
----
 
 ### Milan Air Quality Dashboard
 
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_data = proj_data, proj_title = "milanoAirQ")
+make_project_comp(proj_yaml = 'data/milan-airquality.yaml')
 ```
 
 ---
@@ -32,5 +26,5 @@ make_project_comp(proj_data = proj_data, proj_title = "milanoAirQ")
 ```{r}
 #| echo: false  
 #| results: asis 
-make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
+# make_project_comp(proj_data = proj_data, proj_title = "milanoAirQJS")
 ```
