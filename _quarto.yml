@@ -13,6 +13,7 @@ format:
     theme: default
     css: style/custom.scss
     fontsize: 24px
+    toc: true
 
 website:
   page-footer:
