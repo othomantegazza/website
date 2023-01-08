@@ -76,3 +76,16 @@ make_project_comp(
 ) 
 ```
 
+<hr>
+
+### Crossr
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/crossr.yaml'),
+  vid_cover = T
+) 
+```
+

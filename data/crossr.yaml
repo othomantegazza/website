@@ -1,0 +1,14 @@
+---
+title: Crossr
+video_path: img/crossr.webm
+year: 2017
+place: Düsseldorf - CEPLAS
+stack: R package, orthofinder, Salmon
+url: "--"
+source: "[Github - crossr](https://github.com/othomantegazza/crossr)"
+description: >
+  An R packages to compare expression of orthologues across closely related species.
+  Closely related species can reveal how convergent traits, such as C4 photosynthesis, are evolved.
+  This R packages allows to inspect the expression of orthology groups between two species, and to identify the groups
+  that are expressed in different patterns.
+---
