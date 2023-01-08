@@ -4,6 +4,8 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+  resources:
+    - img/
   preview:
     port: 4200
 
