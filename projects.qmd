@@ -63,3 +63,16 @@ make_project_comp(
 ) 
 ```
 
+<hr>
+
+### Photosynthesis Booklet
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/what-the-plant.yaml'),
+  vid_cover = F
+) 
+```
+

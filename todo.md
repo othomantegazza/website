@@ -1,5 +1,7 @@
 # To Do
 
+- [ ] Remove portfolio dropdown menu
+- [ ] Clickable images
 - [ ] Pills for technological stack
 - [ ] Offers
 
