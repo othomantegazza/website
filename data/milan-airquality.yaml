@@ -1,6 +1,6 @@
 ---
 title: Milan Air Quality Dashboard
-video_path: data/proj-img/milano-air-quality.webm
+video_path: img/milano-air-quality.webm
 year: 2022
 place: Milan
 stack: Quarto, GGplot2, GGiraph, Github Actions.

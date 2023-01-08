@@ -3,8 +3,7 @@ project:
   type: website
   output-dir: docs
   render:
-    - index.qmd
-    - content/*.qmd
+    - "*.qmd"
   preview:
     port: 4200
 
@@ -19,7 +18,7 @@ website:
   page-footer:
     left:
       - text: "License"
-        href: content/license.qmd
+        href: license.qmd
   sidebar:
     style: "docked"
     background: "white"
@@ -29,21 +28,18 @@ website:
       - section: "Portfolio"
         contents: 
           - text: "Projects"
-            file: content/projects.qmd
+            file: projects.qmd
           - text: "Trainings"
-            file: content/trainings.qmd
+            file: trainings.qmd
       - text: "CV"
-        file: content/cv.qmd
+        file: cv.qmd
       - text: "Else"
-        file: content/else.qmd
+        file: else.qmd
       - text: "Values / Ethics"
-        file: content/values.qmd
+        file: values.qmd
       - text: "Contact"
-        file: content/contact.qmd
+        file: contact.qmd
 
-
-      
-      
 
 execute:
   freeze: auto

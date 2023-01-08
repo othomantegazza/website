@@ -1,6 +1,3 @@
-# data
-data/**
-
 # quarto
 _freeze
 /.quarto/
