@@ -61,3 +61,13 @@ make_project_comp(
 )
 ```
 
+### Diventa Data Scientist - Online Class
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/fed-data-sci.yaml'),
+  vid_cover = F
+)
+```
