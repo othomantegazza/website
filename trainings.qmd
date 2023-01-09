@@ -13,7 +13,7 @@ source(
 
 <hr>
 
-### CBSER Summer School
+### CBSER - Summer School
 
 ```{r}
 #| echo: false  
@@ -26,7 +26,7 @@ make_project_comp(
 
 <hr>
 
-### Intro to EDA in R, Workshop
+### Intro to EDA in R - Workshop
 
 ```{r}
 #| echo: false  
@@ -38,3 +38,14 @@ make_project_comp(
 ```
 
 <hr>
+
+### Statistical Burger - Lunch
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/stat-burger.yaml'),
+  vid_cover = T
+)
+```

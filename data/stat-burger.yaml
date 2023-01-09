@@ -1,0 +1,13 @@
+---
+title: Statistical Burger
+video_path: img/stat-burger.webm
+year: 2020
+place: Accurat, Italy
+stack: R, Xaringan
+url: "[Slides](https://othomantegazza.github.io/statistical-burger/statistical-burger.html)"
+source: "[Github - Statistical Burger](https://github.com/othomantegazza/statistical-burger)"
+description: >
+  Learning Lunch at Accurat, Milan, introducing the basic concepts of
+  statistical modeling, choosing a model, fitting and overfitting.
+  A quick lunch talk dedicated to people from any background.
+---

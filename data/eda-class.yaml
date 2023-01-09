@@ -1,5 +1,5 @@
 ---
-title: Introduction to Exploratory Data Analysis, Workshop 
+title: Introduction to Exploratory Data Analysis - Workshop 
 video_path: img/eda-class.webm
 year: 2019
 place: Universty of Milan, Italy
@@ -7,6 +7,6 @@ stack: R, Xaringan
 url: "[Slides](https://github.com/othomantegazza/eda-class/blob/master/readme.md#snowboarder-slides)"
 source: "[Github - EDA Class](https://github.com/othomantegazza/eda-class/)"
 description: >
-  Workshop for Exploratory Data Analysis in R dedicated to the students from the Doctorate School
+  Workshop (1.5 days) for Exploratory Data Analysis in R dedicated to the students from the Doctorate School
   in Biomolecular Sciences at the University of Milan.
 ---

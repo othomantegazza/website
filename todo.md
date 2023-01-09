@@ -4,6 +4,7 @@
 - [ ] Clickable images
 - [ ] Pills for technological stack
 - [ ] Offers
+- [ ] Don't call URL "link"
 
 # Done
 
