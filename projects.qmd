@@ -88,4 +88,3 @@ make_project_comp(
   vid_cover = T
 ) 
 ```
-

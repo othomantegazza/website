@@ -3,23 +3,32 @@ make_project_comp <- function(proj_yaml, vid_cover = FALSE) {
   
   proj <- yaml::read_yaml(proj_yaml)
   
+  bare_url <- 
+    stringr::str_remove(
+      stringr::str_remove(
+        proj$url,
+        ".*\\("),
+      "\\).*")
+  
   sep <- "\n"
   
   out <- 
     glue::glue(
       '<div class="grid" style="--bs-columns: 6;">',
         '<div class="g-col-6 g-col-xl-3 project-cover">',
-          if(vid_cover) {
-            glue::glue(
-            '<video autoplay muted loop>',
-            glue::glue('<source src="{proj$video_path}" type="video/webm">'),
-            '</video>'
-            )
-          } else {
-            glue::glue(
-              '<img img src="{proj$image_path}" alt="Project image">'
-            )
-          },
+          glue::glue('<a href={bare_url}>'),
+            if(vid_cover) {
+              glue::glue(
+              '<video autoplay muted loop>',
+              glue::glue('<source src="{proj$video_path}" type="video/webm">'),
+              '</video>'
+              )
+            } else {
+              glue::glue(
+                '<img img src="{proj$image_path}" alt="Project image">'
+              )
+            },
+          '</a>',
         '</div>',
         '<div class="g-col-6 g-col-xl-3">',
           '<div class="grid" style="--bs-columns: 2;">',

@@ -1,7 +1,5 @@
 # To Do
 
-- [ ] Remove portfolio dropdown menu
-- [ ] Clickable images
 - [ ] Pills for technological stack
 - [ ] Offers
 - [ ] Don't call URL "link"
@@ -21,3 +19,8 @@
   - [x] justify top
 - [x] Projects with no video ==> Img or video slideshow webm
 - [x] Get a better CMS than a json (hard to edit) committed on Github
+- [x] Clickable images
+
+Not sure
+
+- [x] Clickable images
