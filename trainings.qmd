@@ -1,3 +1,27 @@
 ---
 title: "Trainings"
+editor_options: 
+  chunk_output_type: console
 ---
+
+```{r}
+#| echo: false
+source(
+  here::here('R/make-content-component.R') 
+)
+```
+
+<hr>
+
+### CBSER Summer School
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/cbser.yaml'),
+  vid_cover = T
+)
+```
+
+<hr>
