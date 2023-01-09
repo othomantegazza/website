@@ -25,3 +25,16 @@ make_project_comp(
 ```
 
 <hr>
+
+### Intro to EDA in R, Workshop
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/eda-class.yaml'),
+  vid_cover = T
+)
+```
+
+<hr>
