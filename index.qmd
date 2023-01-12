@@ -1,6 +1,3 @@
----
-title: ""
----
 
 <img src="img/id-pic.jpg" alt="A picture of myself" id="my-pic"/>
 
