@@ -7,8 +7,9 @@
 
 /*-- scss:rules --*/
 
-p, li, div[class*="proj-"] {
+p, li, ul, div[class*="proj-"] {
   max-width: 700px;
+  width: 100%;
   font: lato !important;
   font-weight: 100;
   min-width: 10px !important;

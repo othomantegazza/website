@@ -1,3 +1,222 @@
 ---
 title: "Curriculum Vitae"
 ---
+
+### Introduction
+
+::: {.cv}
+
+PhD in plant molecular genetics, 8 years experience in data intensive fields both in academic and private sector.
+
+Experienced R programmer. Strong knowledge of statistics and data analysis. Expert in data visualization, data reporting, data communication, data driven products.
+
+:::
+
+### Work Experience
+
+:::: {.grid .cv}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Data Scientist
+
+*Accurat <br> Milan, Italy* <br>
+**Sep 2019 - Nov 2022**
+
+- Scientific support to the data visualization design teams.
+- Data intelligence, data driven reporting.
+- Development of internal tools in R, development of data workflow.
+- Privacy and GDPR compliance.
+- Development of data science classes for Feltrinelli Education.
+- Development of commercial offers for technical clients.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Postdoc
+
+*Institut de Recherche pour le Développement (IRD) <br> Montpellier, France* <br>
+**Jan 2018 - Dec 2018**
+
+- Development of an analytical and graphical pipeline for comparing transcriptomes of different rice strains and species.
+- Development of an R package for graph-based comparison of rice panicle topology.
+
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Postdoc
+
+*CEPLAS/Heinrich Heine University <br> Dusseldorf, Germany* <br>
+**Apr 2015 - Nov 2017**
+
+- Development of analytic and modeling pipelines for comparing transcriptomes of different plant species.
+- Analysis of proteomic data.
+- Development of gene editing experiments for engineering of photosynthetic pathways.
+- Setup of the Food Security area of competence in collaboration with the University of Cologne.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Visiting Scientist
+
+*North Carolina State University <br> Raleigh, NC, USA* <br>
+**Aug 2014 - Oct 2014**
+
+- Setup of Chromatin Immunoprecipitation protocols in Professor Robert Frank’s Lab.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### PhD Candidate
+
+*University of Milan <br> Milan, Italy* <br>
+**Nov 2011 - Nov 2014**
+
+- Analysis and modeling of transcriptomic data,
+- Development of protocols for Laser microdissection of plant tissues.
+- Development of gene editing protocols.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Museum Guide
+
+*Museo Nazionale della Scienza e Tecnologia <br> Milan, Italy* <br>
+**Feb 2010 - Oct 2011**
+
+While studying for my master degree, in the weekend I gave guided tours in sections about:
+
+- air, land and water transports.
+- Submarine Enrico Toti
+
+:::
+
+::::
+
+### Teaching Experience
+
+::: {.cv}
+
+<br>
+
+See section: [Trainings](trainings.html).
+
+<br>
+
+:::
+
+### Digital Skills
+
+:::: {.grid .cv}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### R / Python
+
+Expert in programming for statistics and data science.
+
+- Tidyverse / Tidymodels for dataviz data wrangling and data modeling.
+- Literate programming in Rmarkdown, Jupyter, and Quarto.
+- R package development.
+- Continuous integration of end to end analytic workflows.
+- Basis of Pandas and Scikit-Learn.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Web development
+
+Web development dedicated to communicating data and scientific results.
+
+- Reorting, publishing and dashboarding with Quarto.
+- Web native dataviz with D3 and Observable.
+- Basis of generic web development.
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+
+###### Else
+
+- Open Access.
+- Git / Github.
+- Continuos Integration.
+- Docker.
+
+:::
+
+::::
+
+### Main Education
+
+:::: {.grid .cv style="--bs-columns: 6;"}
+
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
+
+###### PhD in Biomolecular Sciences
+
+*Università degli Studi di Milano.*<br>
+*Department of Biosciences.* <br>
+*Milan, Italy.*
+
+Awarded in **November 2014**.
+
+:::
+
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
+
+###### MSc in Molecular Biotechnology
+
+*Università degli Studi di Milano.*<br>
+*Department of Biosciences.* <br>
+*Milan, Italy.*
+
+Awarded in **October 2011**.
+
+:::
+
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
+
+###### BSc in Industrial and Environmental Biotechnology
+
+*Università degli Studi di Milano.*<br>
+*Department of Biosciences.* <br>
+*Milan, Italy.*
+
+Awarded in **October 2009**.
+
+:::
+
+::::
+
+### Additional Education
+
+::: {.cv}
+
+- November 2016: Data Mining - gene expression data evaluation (Heinrich Heine University)
+- December 2015: How to successfully communicate your research (Cologne University)
+- September 2015: Advanced Statistics for the Life Sciences (EDX)
+- May 2015: Introduction to Linear Models and Matrix Algebra (EDX)
+- May 2015: Statistics and R for the life Sciences (EDX)
+- August 2014 - Getting and Cleaning Data (Coursera)
+- July 2014 - R programming (Coursera)
+
+:::
+
+### Languages
+
+::: {.cv}
+
+Italian (native) -
+English C2 (fluent) -
+German A1 (beginner) -
+French A1 (beginner)
+
+:::
