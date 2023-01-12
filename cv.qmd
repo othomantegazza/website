@@ -231,3 +231,34 @@ German A1 (beginner) -
 French A1 (beginner)
 
 :::
+
+### Peer Reviewed Publications
+
+:::: {.grid .bib style="--bs-columns: 6;"}
+
+::: {.g-col-6 .g-col-md-3}
+
+Hahn, F., Eisenhut, M., Mantegazza, O., & Weber, A. P. (2018). Homology-directed repair of a defective glabrous gene in arabidopsis with Cas9-based gene targeting. Frontiers in Plant Science, 9, 424.
+
+Mantegazza, O., Gregis, V., Chiara, M., Selva, C., Leo, G., Horner, D. S., & Kater, M. M.(2014). Gene coexpression patterns during early development of the native arabidopsis reproductive meristem: Novel candidate developmental regulators and patterns of functional redundancy. The Plant Journal, 79 (5), 861–877.
+
+Lundquist, P. K., Mantegazza, O., Stefanski, A., Stühler, K., & Weber, A. P. (2017). Surveying the oligomeric state of arabidopsis thaliana chloroplasts. Molecular Plant, 10 (1), 197–211.
+
+Hahn, F., Mantegazza, O., Greiner, A., Hegemann, P., Eisenhut, M., & Weber, A. P. (2017). An efficient visual screen for CRISPR/Cas9 activity in arabidopsis thaliana. Frontiers in Plant Science, 8, 39. 2/35.
+
+:::
+
+::: {.g-col-6 .g-col-md-3}
+
+Schuler, M. L., Mantegazza, O., & Weber, A. P. (2016). Engineering C4 photosynthesis into C3 chassis in the synthetic biology age. The Plant Journal, 87 (1), 51–65.
+
+Mantegazza, O., Gregis, V., Mendes, M. A., Morandini, P., Alves-Ferreira, M., Patreze, C. M., Nardeli, S. M., Kater, M. M., & Colombo, L. (2014). Analysis of the arabidopsis REM gene family predicts functions during flower development. Annals of Botany, 114 (7), 1507–1515.
+
+Hahn, F., Eisenhut, M., Mantegazza, O., & Weber, A. P. (2017). Generation of targeted knockout mutants in arabidopsis thaliana using CRISPR/Cas9. BIO-PROTOCOL, 7 (13).
+
+Harrop, T. W., Mantegazza, O., Luong, A. M., Béthune, K., Lorieux, M., Jouannic, S., & Adam, H. (2019). A set of AP2-like genes is associated with inflorescence branching and architecture in domesticated rice. Journal of Experimental Botany, 70 (20), 5617–5629.
+
+
+:::
+
+::::
