@@ -12,7 +12,7 @@ project:
 format:
   html:
     theme: default
-    css: style/custom.scss
+    css: style/custom.css
     fontsize: 24px
     toc: true
 
