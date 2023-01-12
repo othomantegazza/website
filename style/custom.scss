@@ -7,7 +7,7 @@
 
 /*-- scss:rules --*/
 
-p {
+p, li, div[class*="proj-"] {
   max-width: 700px;
   font: lato !important;
   font-weight: 100;
@@ -43,4 +43,12 @@ div[class*="proj-"] {
 
 .proj-description p {
   line-height: 20px;
+}
+
+.cv p, .cv li {
+  font-size: 70%;
+}
+
+.cv ul {
+  padding-left: 1rem;
 }
