@@ -21,6 +21,13 @@ website:
     left:
       - text: "License"
         href: license.qmd
+    right:
+      - icon: github
+        href: https://github.com/othomantegazza
+      - icon: linkedin
+        href: https://www.linkedin.com/in/otho-mantegazza/
+      - icon: twitter
+        href: https://twitter.com/othomn
   sidebar:
     style: "docked"
     background: "white"
@@ -37,8 +44,8 @@ website:
         file: cv.qmd
       - text: "Else"
         file: else.qmd
-      - text: "Values / Ethics"
-        file: values.qmd
+      # - text: "Values / Ethics"
+      #   file: values.qmd
       - text: "Contact"
         file: contact.qmd
 
