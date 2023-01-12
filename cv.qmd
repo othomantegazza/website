@@ -14,9 +14,9 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ### Work Experience
 
-:::: {.grid .cv}
+:::: {.grid .cv style="--bs-columns: 6;"}
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Data Scientist
 
@@ -32,7 +32,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Postdoc
 
@@ -45,7 +45,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Postdoc
 
@@ -59,7 +59,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Visiting Scientist
 
@@ -70,7 +70,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### PhD Candidate
 
@@ -83,7 +83,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Museum Guide
 
@@ -113,9 +113,9 @@ See section: [Trainings](trainings.html).
 
 ### Digital Skills
 
-:::: {.grid .cv}
+:::: {.grid .cv style="--bs-columns: 6;"}
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### R / Python
 
@@ -129,7 +129,7 @@ Expert in programming for statistics and data science.
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Web development
 
@@ -141,7 +141,7 @@ Web development dedicated to communicating data and scientific results.
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-xxl-4}
+::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
 ###### Else
 
@@ -198,17 +198,28 @@ Awarded in **October 2009**.
 
 ### Additional Education
 
-::: {.cv}
+:::: {.grid .cv style="--bs-columns: 6;"}
 
-- November 2016: Data Mining - gene expression data evaluation (Heinrich Heine University)
-- December 2015: How to successfully communicate your research (Cologne University)
-- September 2015: Advanced Statistics for the Life Sciences (EDX)
-- May 2015: Introduction to Linear Models and Matrix Algebra (EDX)
-- May 2015: Statistics and R for the life Sciences (EDX)
-- August 2014 - Getting and Cleaning Data (Coursera)
-- July 2014 - R programming (Coursera)
+::: {.g-col-6 .g-col-md-3}
+
+- Design Thinking - *Protostart, Düsseldorf, September 2017*
+- Data Mining - gene expression data evaluation - *Heinrich Heine University, November 2016*
+- How to successfully communicate your research - *Cologne University, December 2015* 
+- How to lead and coach a PhD candidate - *forschungszentrum jülich - December 2015*
 
 :::
+::: {.g-col-6 .g-col-md-3}
+
+
+-  Advanced Statistics for the Life Sciences - *EDX, September 2015*
+- Introduction to Linear Models and Matrix Algebra - *EDX, May 2015*
+- Statistics and R for the life Sciences - *EDX, May 2015*
+- Getting and Cleaning Data - *Coursera, August 2014*
+- R programming *Coursera, July 2014 *
+
+:::
+
+::::
 
 ### Languages
 
