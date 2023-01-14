@@ -57,3 +57,7 @@ div[class*="proj-"] {
 .bib {
   font-size: 60%;
 }
+
+.anchorjs-link {
+  color: black;
+}

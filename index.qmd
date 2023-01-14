@@ -1,7 +1,7 @@
 
 <img src="img/id-pic.jpg" alt="A picture of myself" id="my-pic"/>
 
-Very nice to meet you, I'm Otho
+Very nice to meet you, I'm Otho.
 
 Science, statistics and communication are my passions.
 
