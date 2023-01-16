@@ -1,0 +1,42 @@
+---
+title: "Work With Me"
+---
+
+::::: {.cv}
+
+Would you like to hire me for a project or a training?
+
+:::: {.grid style="--bs-columns: 6;"}
+
+::: {.g-col-6 .g-col-sm-3}
+
+### Trainings
+
+<img src="img/dataviz-meetup.jpg" alt="training" class="cover"/>
+
+I teach data analysis in R data communication and data visualization in R, Quarto and Javascript.
+
+Within my offers you'll find 2-3 days hands-on workshop . Participants will concentrate on understanding, mastering, and becoming independent on a full collection of skills.
+
+All software used is open source, all my material are open access. Hiring me for a training, you'll not only get my in person teaching, but you'll also finance my activity of producing open access teaching material.
+
+:::
+
+::: {.g-col-6 .g-col-sm-3}
+
+### Projects
+
+<img src="img/fluidigr.png" alt="training" class="cover"/>
+
+My projects will help you to put your data into action and to communicate them to the broad public.
+
+I work on data strategy, analytic dashboard and web basedc data communication. 
+
+
+:::
+
+::::
+
+For any question, contact me at [✍ otho.data@gmail.com](mailto:otho.data@gmail.com) to schedule a meeting.
+
+:::::
