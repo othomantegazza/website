@@ -30,6 +30,13 @@ jobs:
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+          with:
+            node-version: 19
+        run: npm ci
+        run: npm test
   
       - name: Render
         run : |
