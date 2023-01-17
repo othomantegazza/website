@@ -5,12 +5,12 @@ Very nice to meet you, I'm Otho.
 
 Science, statistics and communication are my passions.
 
-I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That's why I dedicated my studies to it, specializing in plant molecular genetics.
+I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That's why I dedicated my studies to it, specializing with a [PhD in plant molecular genetics](cv.html#phd-candidate).
 
-I love data and statistics. Data is to science like water to a thirsty land. Statistics is a collection of valuable tools to make sense of complex data. With a good statistical mindset, you can always get some insights out of data, no matter how complex they are. That's why I always focused on the quantitative aspects of genetics, such as phenotypes, transcriptomes.
+I love data and statistics. Data is to science like water to a thirsty land. Statistics is a collection of valuable tools to make sense of complex data. With a good statistical mindset, you can always get some insights out of data, no matter how complex they are. That's why I always focused on the [quantitative aspects of genetics](projects.html#fluidigr), such as phenotypes, transcriptomes.
 
-I love communication, it lets everything come to life. Only when you communicate with other people, you have chances to identify problems and phenomena that are worth studying and solving. And when you communicate your results effectively, you have the chance that your hard work as a scientist will reach the people that need it have an impact. That's why I've been working for 3 years in an information design studio, learning how to communicate data graphically.
+I love communication, it lets everything come to life. Only when you communicate with other people, you have chances to identify problems and phenomena that are worth studying and solving. And when you communicate your results effectively, your hard work reaches the people that need it. That's why I've been working for 3 years as a data scientist in an [information design studio](cv.html#data-scientist), learning how to communicate data graphically.
 
 And it is the small problems that affect every day lives that are the most satisfying to solve. And luckily there are many.
 
-If you feel like me, it would be great to collaborate!
+If you feel like me, [let's collaborate](hire-me.html)!
