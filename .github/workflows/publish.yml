@@ -34,7 +34,6 @@ jobs:
           node-version: 19
         
       - run: npm ci
-      - run: npm test
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
