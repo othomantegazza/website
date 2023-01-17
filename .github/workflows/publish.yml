@@ -32,8 +32,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 19
-        
-      - run: npm ci
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
