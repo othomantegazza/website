@@ -11,6 +11,6 @@ I love data and statistics. Data is to science like water to a thirsty land. Sta
 
 I love communication, it lets everything come to life. Only when you communicate with other people, you have chances to identify problems and phenomena that are worth studying and solving. And when you communicate your results effectively, your hard work reaches the people that need it. That's why I've been working for 3 years as a data scientist in an [information design studio](cv.html#data-scientist), learning how to communicate data graphically.
 
-And it is the small problems that affect every day lives that are the most satisfying to solve. And luckily there are many.
+And it is the small problems that affect every day lives that are the most satisfying to solve. And, of those problems, there are many.
 
 If you feel like me, [let's collaborate](hire-me.html)!
