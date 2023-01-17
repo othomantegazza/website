@@ -72,3 +72,4 @@ rsconnect/
 .Ruserdata
 
 /.quarto/
+node_modules
