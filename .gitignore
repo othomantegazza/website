@@ -1,3 +1,6 @@
+# secrets
+.env
+
 # quarto
 _freeze
 /.quarto/
