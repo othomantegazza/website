@@ -20,7 +20,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### Data Scientist
 
-*Accurat <br> Milan, Italy* <br>
+*[Accurat](https://accurat.it/) <br> Milan, Italy* <br>
 **Sep 2019 - Nov 2022**
 
 - Scientific support to the data visualization design teams.
@@ -36,8 +36,10 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### Postdoc
 
-*Institut de Recherche pour le Développement (IRD) <br> Montpellier, France* <br>
+*[Institut de Recherche pour le Développement (IRD)](https://www.ird.fr/) <br> Montpellier, France* <br>
 **Jan 2018 - Dec 2018**
+
+Functional genomics of wild and cultivated rice species.
 
 - Development of an analytical and graphical pipeline for comparing transcriptomes of different rice strains and species.
 - Development of an R package for graph-based comparison of rice panicle topology.
@@ -49,8 +51,10 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### Postdoc
 
-*CEPLAS/Heinrich Heine University <br> Dusseldorf, Germany* <br>
+*[CEPLAS/Heinrich Heine University](https://www.ceplas.eu/en/home/) <br> Dusseldorf, Germany* <br>
 **Apr 2015 - Nov 2017**
+
+Evolution and synthetic biology of C4 photosynthesis in plants.
 
 - Development of analytic and modeling pipelines for comparing transcriptomes of different plant species.
 - Analysis of proteomic data.
@@ -63,10 +67,12 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### Visiting Scientist
 
-*North Carolina State University <br> Raleigh, NC, USA* <br>
+*[North Carolina State University](https://www.ncsu.edu/) <br> Raleigh, NC, USA* <br>
 **Aug 2014 - Oct 2014**
 
-- Setup of Chromatin Immunoprecipitation protocols in Professor Robert Frank’s Lab.
+Fruit development.
+
+- Setup of Chromatin Immunoprecipitation protocols in [Professor Robert Frank’s Lab](https://frankslab.wordpress.ncsu.edu/).
 
 :::
 
@@ -74,8 +80,10 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### PhD Candidate
 
-*University of Milan <br> Milan, Italy* <br>
+*[University of Milan](https://www.unimi.it/en) <br> Milan, Italy* <br>
 **Nov 2011 - Nov 2014**
+
+Flower development.
 
 - Analysis and modeling of transcriptomic data,
 - Development of protocols for Laser microdissection of plant tissues.
@@ -87,7 +95,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ###### Museum Guide
 
-*Museo Nazionale della Scienza e Tecnologia <br> Milan, Italy* <br>
+*[Museo Nazionale della Scienza e Tecnologia](https://www.museoscienza.org/en) <br> Milan, Italy* <br>
 **Feb 2010 - Oct 2011**
 
 While studying for my master degree, in the weekend I gave guided tours in sections about:
