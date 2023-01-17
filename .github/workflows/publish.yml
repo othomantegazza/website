@@ -1,4 +1,5 @@
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'deploy'
@@ -33,3 +34,8 @@ jobs:
       - name: Render
         run : |
           quarto render
+
+      - name: Deploy
+        run: |
+          npm install netlify-cli
+          netlify deploy --dir=docs --alias=test --site=${{ secrets.NETLIFY_TOKEN }} --auth=${{ secrets.NETLIFY_TOKEN }}
