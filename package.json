@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "netlify": "^13.1.0"
+    "netlify-cli": "^12.7.2"
   }
 }
