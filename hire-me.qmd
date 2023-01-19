@@ -7,7 +7,7 @@ Would you like to hire me for a project or a training?
 
 ::: {.grid style="--bs-columns: 6;"}
 ::: {.g-col-6 .g-col-sm-3}
-### Trainings
+## Trainings
 
 <img src="img/dataviz-meetup.jpg" alt="training" class="cover"/>
 
@@ -19,7 +19,7 @@ All software used is open source, all my material are open access. Hiring me for
 :::
 
 ::: {.g-col-6 .g-col-sm-3}
-### Projects
+## Projects
 
 <img src="img/fluidigr.png" alt="projects" class="cover"/>
 

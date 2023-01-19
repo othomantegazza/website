@@ -13,7 +13,7 @@ source(
 
 <hr>
 
-# Milan Air Quality Dashboard
+## Milan Air Quality Dashboard
 
 ```{r}
 #| echo: false  
@@ -26,7 +26,7 @@ make_project_comp(
 
 <hr>
 
-# Fluidigr
+## Fluidigr
 
 ```{r}
 #| echo: false  
@@ -39,7 +39,7 @@ make_project_comp(
 
 <hr>
 
-# Ptrapr
+## Ptrapr
 
 ```{r}
 #| echo: false  
@@ -52,7 +52,7 @@ make_project_comp(
 
 <hr>
 
-# Sunday Blues Blog
+## Sunday Blues Blog
 
 ```{r}
 #| echo: false  
@@ -65,7 +65,7 @@ make_project_comp(
 
 <hr>
 
-# Photosynthesis Booklet
+## Photosynthesis Booklet
 
 ```{r}
 #| echo: false  
@@ -78,7 +78,7 @@ make_project_comp(
 
 <hr>
 
-# Crossr
+## Crossr
 
 ```{r}
 #| echo: false  

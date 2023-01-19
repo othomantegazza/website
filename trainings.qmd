@@ -13,7 +13,7 @@ source(
 
 <hr>
 
-# CBSER - Summer School
+## CBSER - Summer School
 
 ```{r}
 #| echo: false  
@@ -26,7 +26,7 @@ make_project_comp(
 
 <hr>
 
-# Intro to EDA in R - Workshop
+## Intro to EDA in R - Workshop
 
 ```{r}
 #| echo: false  
@@ -39,7 +39,7 @@ make_project_comp(
 
 <hr>
 
-# Statistical Burger - Lunch
+## Statistical Burger - Lunch
 
 ```{r}
 #| echo: false  
@@ -50,7 +50,7 @@ make_project_comp(
 )
 ```
 
-# Make Science with Data - Workshop
+## Make Science with Data - Workshop
 
 ```{r}
 #| echo: false  
@@ -61,7 +61,7 @@ make_project_comp(
 )
 ```
 
-# Diventa Data Scientist - Online Class
+## Diventa Data Scientist - Online Class
 
 ```{r}
 #| echo: false  

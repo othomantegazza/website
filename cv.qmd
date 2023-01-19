@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-# Introduction
+## Introduction
 
 ::: {.cv}
 
@@ -12,7 +12,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-# Work Experience
+## Work Experience
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
@@ -107,7 +107,7 @@ While studying for my master degree, in the weekend I gave guided tours in secti
 
 ::::
 
-# Teaching Experience
+## Teaching Experience
 
 ::: {.cv}
 
@@ -119,7 +119,7 @@ See section: [Trainings](trainings.html).
 
 :::
 
-# Digital Skills
+## Digital Skills
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
@@ -162,7 +162,7 @@ Web development dedicated to communicating data and scientific results.
 
 ::::
 
-# Main Education
+## Main Education
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
@@ -204,7 +204,7 @@ Awarded in **October 2009**.
 
 ::::
 
-# Additional Education
+## Additional Education
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
@@ -229,7 +229,7 @@ Awarded in **October 2009**.
 
 ::::
 
-# Languages
+## Languages
 
 ::: {.cv}
 
@@ -240,7 +240,7 @@ French A1 (beginner)
 
 :::
 
-# Peer Reviewed Publications
+## Peer Reviewed Publications
 
 :::: {.grid .bib style="--bs-columns: 6;"}
 
