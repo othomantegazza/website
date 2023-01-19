@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-### Introduction
+# Introduction
 
 ::: {.cv}
 
@@ -12,13 +12,13 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 :::
 
-### Work Experience
+# Work Experience
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Data Scientist
+###  Data Scientist
 
 *[Accurat](https://accurat.it/) <br> Milan, Italy* <br>
 **Sep 2019 - Nov 2022**
@@ -34,7 +34,7 @@ Experienced R programmer. Strong knowledge of statistics and data analysis. Expe
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Postdoc
+###  Postdoc
 
 *[Institut de Recherche pour le Développement (IRD)](https://www.ird.fr/) <br> Montpellier, France* <br>
 **Jan 2018 - Dec 2018**
@@ -49,7 +49,7 @@ Functional genomics of wild and cultivated rice species.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Postdoc
+###  Postdoc
 
 *[CEPLAS/Heinrich Heine University](https://www.ceplas.eu/en/home/) <br> Dusseldorf, Germany* <br>
 **Apr 2015 - Nov 2017**
@@ -65,7 +65,7 @@ Evolution and synthetic biology of C4 photosynthesis in plants.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Visiting Scientist
+###  Visiting Scientist
 
 *[North Carolina State University](https://www.ncsu.edu/) <br> Raleigh, NC, USA* <br>
 **Aug 2014 - Oct 2014**
@@ -78,7 +78,7 @@ Fruit development.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### PhD Candidate
+###  PhD Candidate
 
 *[University of Milan](https://www.unimi.it/en) <br> Milan, Italy* <br>
 **Nov 2011 - Nov 2014**
@@ -93,21 +93,21 @@ Flower development.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Museum Guide
+###  Museum Guide
 
 *[Museo Nazionale della Scienza e Tecnologia](https://www.museoscienza.org/en) <br> Milan, Italy* <br>
 **Feb 2010 - Oct 2011**
 
 While studying for my master degree, in the weekend I gave guided tours in sections about:
 
-- air, land and water transports.
+- Air, land and water transports.
 - Submarine Enrico Toti
 
 :::
 
 ::::
 
-### Teaching Experience
+# Teaching Experience
 
 ::: {.cv}
 
@@ -119,13 +119,13 @@ See section: [Trainings](trainings.html).
 
 :::
 
-### Digital Skills
+# Digital Skills
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### R / Python
+###  R / Python
 
 Expert in programming for statistics and data science.
 
@@ -139,7 +139,7 @@ Expert in programming for statistics and data science.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Web development
+###  Web development
 
 Web development dedicated to communicating data and scientific results.
 
@@ -151,7 +151,7 @@ Web development dedicated to communicating data and scientific results.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### Else
+###  Else
 
 - Open Access.
 - Git / Github.
@@ -162,13 +162,13 @@ Web development dedicated to communicating data and scientific results.
 
 ::::
 
-### Main Education
+# Main Education
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### PhD in Biomolecular Sciences
+###  PhD in Biomolecular Sciences
 
 *Università degli Studi di Milano.*<br>
 *Department of Biosciences.* <br>
@@ -180,7 +180,7 @@ Awarded in **November 2014**.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### MSc in Molecular Biotechnology
+###  MSc in Molecular Biotechnology
 
 *Università degli Studi di Milano.*<br>
 *Department of Biosciences.* <br>
@@ -192,7 +192,7 @@ Awarded in **October 2011**.
 
 ::: {.g-col-6 .g-col-sm-3 .g-col-xxl-2}
 
-###### BSc in Industrial and Environmental Biotechnology
+###  BSc in Industrial and Environmental Biotechnology
 
 *Università degli Studi di Milano.*<br>
 *Department of Biosciences.* <br>
@@ -204,7 +204,7 @@ Awarded in **October 2009**.
 
 ::::
 
-### Additional Education
+# Additional Education
 
 :::: {.grid .cv style="--bs-columns: 6;"}
 
@@ -229,7 +229,7 @@ Awarded in **October 2009**.
 
 ::::
 
-### Languages
+# Languages
 
 ::: {.cv}
 
@@ -240,7 +240,7 @@ French A1 (beginner)
 
 :::
 
-### Peer Reviewed Publications
+# Peer Reviewed Publications
 
 :::: {.grid .bib style="--bs-columns: 6;"}
 
