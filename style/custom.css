@@ -3,14 +3,31 @@
 @import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap);
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+
 body {
-  font-family: lato;
+  font-family: "Helvetica Neue";
+  letter-spacing: .7px;
+  word-spacing: -1px;
 }
+
+.sidebar-link, .nav-link {
+ font-size: 1rem; 
+}
+
+h1 {
+  font-size: 2.4rem !important;
+  font-weight: 400 !important;
+}
+
+h3, .sidebar-title {
+  font-size: 1.6rem !important;
+  font-weight: 400 !important;
+} 
 
 p, li, ul, div[class*="proj-"] {
   max-width: 700px;
   width: 100%;
-  font-weight: 100;
+  font-weight: 200;
   min-width: 10px !important;
 }
 
@@ -32,9 +49,7 @@ div.project-cover video, div.project-cover img, .cover {
   margin-bottom: 24px;
 }
 
-div[class*="proj-"] {
-  font-size: 70%;
-}
+
 
 .grid {
   row-gap: 0px !important;
@@ -44,9 +59,7 @@ div[class*="proj-"] {
   line-height: 20px;
 }
 
-.cv p, .cv li {
-  font-size: 70%;
-}
+
 
 .cv ul {
   padding-left: 1rem;
