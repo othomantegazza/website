@@ -13,7 +13,7 @@ format:
   html:
     theme: default
     css: style/custom.css
-    fontsize: 24px
+    fontsize: 20px
     toc: true
 
 website:
