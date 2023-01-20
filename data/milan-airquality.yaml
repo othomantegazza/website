@@ -4,7 +4,7 @@ video_path: img/milano-air-quality.webm
 year: 2022
 place: Milan
 stack: Quarto, GGplot2, GGiraph, Github Actions.
-url: "[link 1](https://othomantegazza.github.io/milano-air-quality/)"
+url: "[Visit the Dashboard](https://othomantegazza.github.io/milano-air-quality/)"
 source: "[Github - Milano Air Quality](https://github.com/othomantegazza/milano-air-quality)"
 description: >
   A proof-of-concept dashboard made with Quarto, GGiraph and deployed

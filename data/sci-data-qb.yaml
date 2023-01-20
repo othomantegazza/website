@@ -4,7 +4,7 @@ image_path: img/sci-data-qb.png
 year: 2022
 place: University of Milan
 stack: R, Python, Quarto
-url: "[Website](https://othomantegazza.github.io/quantitative-bio-unimi/)"
+url: "[Workshop Website](https://othomantegazza.github.io/quantitative-bio-unimi/)"
 source: "[Github](https://github.com/othomantegazza/quantitative-bio-unimi)"
 description: >
   A hands-on workshop (4 hours) welcoming first year students to the master in quantiative biology

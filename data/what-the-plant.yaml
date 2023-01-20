@@ -4,7 +4,7 @@ image_path: img/what-the-plant.png
 year: 2018
 place: Düsseldorf, CEPLAS
 stack: Bookdown
-url: "[link 1](https://bookdown.org/otho/ps_booklet/solar-powered-wonders.html)"
+url: "[Read the Booklet](https://bookdown.org/otho/ps_booklet/solar-powered-wonders.html)"
 source: "[Github - ps-booklet](https://github.com/othomantegazza/ps_booklet)"
 description: >
   An online booklet that explains why we do research on photosynthesis.

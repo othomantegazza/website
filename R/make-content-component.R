@@ -16,7 +16,7 @@ make_project_comp <- function(proj_yaml, vid_cover = FALSE) {
     glue::glue(
       '<div class="grid" style="--bs-columns: 6;">',
         '<div class="g-col-6 g-col-xl-3 project-cover">',
-          glue::glue('<a href={bare_url}>'),
+          # glue::glue('<a href={bare_url}>'),
             if(vid_cover) {
               glue::glue(
                 '<video autoplay muted loop playsinline>',
@@ -28,7 +28,7 @@ make_project_comp <- function(proj_yaml, vid_cover = FALSE) {
                 '<img src="{proj$image_path}" alt="Project image">'
               )
             },
-          '</a>',
+          # '</a>',
         '</div>',
         '<div class="g-col-6 g-col-xl-3">',
           '<div class="grid" style="--bs-columns: 2;">',

@@ -4,7 +4,7 @@ image_path: img/ptrapr.png
 year: 2019
 place: Montpellier, IRD
 stack: R package, igraph phenotyping.
-url: "[link 1](https://othomantegazza.github.io/ptrapr/)"
+url: "[Package Manual](https://othomantegazza.github.io/ptrapr/)"
 source: "[Github - Fluidigr](https://github.com/othomantegazza/ptrapr)"
 description: >
   An R package to analize the topology of rice panicles.

@@ -4,7 +4,7 @@ image_path: img/fluidigr.png
 year: 2018
 place: Montpellier, IRD
 stack: R package, qPCR.
-url: "[link 1](https://othomantegazza.github.io/fluidgr/)"
+url: "[Package Manual](https://othomantegazza.github.io/fluidgr/)"
 source: "[Github - Fluidigr](https://github.com/othomantegazza/fluidigr)"
 description: >
   An R package to parse, normalize and visualize gene expression data
