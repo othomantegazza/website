@@ -1,6 +1,7 @@
 ---
 title: Statistical Burger
 video_path: img/stat-burger.webm
+image_poster_path: img/stat-burger.png
 year: 2020
 place: Accurat, Italy
 stack: R, Xaringan

@@ -19,7 +19,7 @@ make_project_comp <- function(proj_yaml, vid_cover = FALSE) {
           # glue::glue('<a href={bare_url}>'),
             if(vid_cover) {
               glue::glue(
-                '<video autoplay muted loop playsinline>',
+                '<video autoplay muted loop playsinline poster={proj$image_poster_path}>',
                 glue::glue('<source src="{proj$video_path}" type="video/webm">'),
                 '</video>'
               )

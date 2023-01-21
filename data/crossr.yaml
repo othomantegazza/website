@@ -1,6 +1,7 @@
 ---
 title: Crossr
 video_path: img/crossr.webm
+image_poster_path: img/crossr.png
 year: 2017
 place: Düsseldorf - CEPLAS
 stack: R package, orthofinder, Salmon

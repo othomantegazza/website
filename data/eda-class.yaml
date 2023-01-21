@@ -1,6 +1,7 @@
 ---
 title: Introduction to Exploratory Data Analysis - Workshop 
 video_path: img/eda-class.webm
+image_poster_path: img/eda-class.png
 year: 2019
 place: Universty of Milan, Italy
 stack: R, Xaringan
