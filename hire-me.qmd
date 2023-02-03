@@ -1,5 +1,5 @@
 ---
-title: "Work With Me"
+title: "Hire Me"
 ---
 
 ::: cv
@@ -11,11 +11,13 @@ Would you like to hire me for a project or a training?
 
 <img src="img/dataviz-meetup.jpg" alt="training" class="cover"/>
 
-I teach data analysis in R data communication and data visualization in R, Quarto and Javascript.
+I teach how to analyze, visualize and communicate data; in R, Quarto and Javascript.
 
-Within my offers you'll find 2-3 days hands-on workshop . Participants will concentrate on understanding, mastering, and becoming independent on a full collection of skills.
+My main offers are 2-3 days hands-on workshops, where participants concentrate on understanding, mastering, and becoming independent on a full collection of skills, needed to gain insights from data and communicate them to others.
 
-All software used is open source, all my material are open access. Hiring me for a training, you'll not only get my in person teaching, but you'll also finance my activity of producing open access teaching material.
+All software that I teach is open source, all my teaching material is open access.
+
+When you hiring me for a training, you'll not only get my in person teaching, but you'll also finance my activity of producing open access teaching material, available to anyone who needs it.
 :::
 
 ::: {.g-col-6 .g-col-sm-3}
@@ -25,9 +27,9 @@ All software used is open source, all my material are open access. Hiring me for
 
 My projects will help you to put your data into action and to communicate them to the broad public.
 
-I work on data strategy, data analysis, analytics dashboard and web based data communication. If you would like to work on collecting data for your activities, if you have already data that you would like to analyze and valorize, if you want to build an internal dashboard to support decision making in your organization, if you have great results that you would like to communicate to the public, let me know.
+I work on data strategy, data analysis, analytics dashboard and web based data communication. If you would like to work on collecting data for your activities, if you have already collected data that you would like to analyze and valorize, if you want to build an internal dashboard to support decision making in your organization, if you have great results that you would like to communicate to the public, let me know.
 
-Although I'm versatile, besides data analysis I'm trained in molecular genetics plant science and biotechnology. Thus you would leverage my skills best in projects about biology and ecology. 
+Although I've worked also on business strategy and business intelligence, I'm trained in molecular genetics plant science and biotechnology. Thus you would leverage my skills best in projects that analyze data in the field of biology, genetics and ecology.
 :::
 :::
 
