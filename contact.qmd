@@ -2,4 +2,10 @@
 title: "Contact Me"
 ---
 
-For any inquiry on offers, collaborations or questions, please, contact me at [✍ otho.data@gmail.com](mailto:otho.data@gmail.com).
+Would you like to get in touch with me for any inquiry on offers, collaborations or questions?
+
+You can write me directly with me at [✍ otho.data@gmail.com](mailto:otho.data@gmail.com).
+
+Otherwise, you can write to me using the *Open Contact Form below*, I'll get back in touch with you within a couple of days.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebe82j0XRQyFWup01gDgakHsWh73wfupRunU2IUttqOkaYBw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
