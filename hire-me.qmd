@@ -21,9 +21,9 @@ All software that I teach is open source, all my teaching material is open acces
 
 When you hiring me for a training, you'll not only get my in person teaching, but you'll also finance my activity of producing open access teaching material, available to anyone who needs it.
 
-For any question about my training offers, and to schedule a meeting:
+For any questions about my training offers, or to schedule a meeting:
 
-<button class="button">Contact Me</button>
+<a class="button" href="contact.html">Contact Me</a>
 
 :::
 
@@ -40,13 +40,14 @@ I work on data strategy, data analysis, analytics dashboard and web based data c
 
 Although I've worked also on business strategy and business intelligence, I'm trained in molecular genetics plant science and biotechnology. Thus you would leverage my skills best in projects that analyze data in the field of biology, genetics and ecology.
 
-For any question about my project offers, and to schedule a meeting:
+For any questions about my project offers, or to schedule a meeting:
 
-<button class="button">Contact Me</button>
+<a class="button" href="contact.html">Contact Me</a>
 
 :::
 :::
 
-For any question, contact me at [✍ otho.data\@gmail.com](mailto:otho.data@gmail.com) to schedule a meeting.
+I'm looking forward to hear from you!
+
 :::
 
