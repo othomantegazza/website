@@ -70,3 +70,19 @@ div.project-cover video, div.project-cover img, .cover {
 .anchorjs-link {
   color: black;
 }
+
+.button {
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: 200;
+    padding: 5px; 
+    transition-duration: 0.2s;
+    margin-bottom: 18px;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
