@@ -50,6 +50,14 @@ website:
       #   file: values.qmd
       - text: "Contact"
         file: contact.qmd
+  open-graph:
+    locale: en_EU
+    site-name: "Otho Mantegazza"
+    description: > 
+      Hello, I'm an independent data scientist, I hold a PhD in molecular
+      genetics and I like to communicate data visually.
+      Welcome to my website.
+    image: img/front.jpg
 
 
 execute:
