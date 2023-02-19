@@ -1,3 +1,6 @@
+# fetched at rendering
+data/books.qmd
+
 # secrets
 .env
 

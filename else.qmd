@@ -1,4 +1,0 @@
----
-title: "Else"
-subtitle: "My side projects"
----

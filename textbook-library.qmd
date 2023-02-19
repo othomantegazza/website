@@ -1,0 +1,6 @@
+{{< include data/books.qmd >}}
+
+# Source
+
+Sourced from my github repo [Great Books About Data Analysis](https://github.com/othomantegazza/data-and-sci-open-books), check it for the most updated version.
+

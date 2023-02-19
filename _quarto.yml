@@ -2,6 +2,7 @@ project:
   title: "Otho Mantegazza"
   type: website
   output-dir: docs
+  pre-render: R/pre-render.R
   render:
     - "*.qmd"
   resources:
@@ -42,8 +43,10 @@ website:
             file: trainings.qmd
       - text: "CV"
         file: cv.qmd
-      - text: "Else"
-        file: else.qmd
+      - section: "Else"
+        contents:
+          - text: "Textbook Library"
+            file: textbook-library.qmd
       - text: "Hire me"
         file: hire-me.qmd
       # - text: "Values / Ethics"
