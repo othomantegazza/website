@@ -47,10 +47,10 @@ website:
         contents:
           - text: "Textbook Library"
             file: textbook-library.qmd
+      - text: "Values"
+        file: values.qmd
       - text: "Hire me"
         file: hire-me.qmd
-      # - text: "Values / Ethics"
-      #   file: values.qmd
       - text: "Contact"
         file: contact.qmd
   open-graph:
