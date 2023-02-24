@@ -13,6 +13,19 @@ source(
 
 <hr>
 
+## Milan Air Quality V2
+  
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/milan-airquality-v2.yaml'),
+  vid_cover = T
+)
+```
+
+<hr>
+
 ## Milan Air Quality Dashboard
 
 ```{r}

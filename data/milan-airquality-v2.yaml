@@ -1,0 +1,15 @@
+---
+title: Milan Air Quality V2
+video_path: img/air-quality-v2-small.webm
+image_poster_path: img/air-quality-v2.png
+year: 2023
+place: Milan
+stack: Quarto, R, Observable, D3.
+url: "[Visit the Dashboard](https://othomantegazza.github.io/milano-air-quality-v2/)"
+source: "[Github - Milano Air Quality V2](https://github.com/othomantegazza/milano-air-quality-v2)"
+description: >
+  An upgrade to the same dashboard published previously, pushing the limits of Quarto
+  and integrating it with web-based visualization developed in d3.
+  This dashboard daily fetches the Air quality Open Data provided by
+  the Municipality of Milan, and represent them graphically.
+---
