@@ -1,3 +1,10 @@
+
+:root {
+    --main-color: black;
+    --accent-color: #9e019e;
+    --accent-background: #e8d5ff;
+}
+
 body {
   font-family: "Helvetica Neue";
   letter-spacing: .7px;
@@ -29,6 +36,22 @@ p, li, ul, div[class*="proj-"] {
   width: 100%;
   font-weight: 200;
   min-width: 10px !important;
+}
+
+a {
+  color: var(--main-color);
+}
+
+a:hover {
+  color: var(--accent-color);
+}
+
+.nav-link:hover {
+  color: var(--accent-color) !important;
+}
+
+.nav-link.active {
+  color: var(--accent-color) !important;
 }
 
 img#my-pic {
