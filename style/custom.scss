@@ -50,6 +50,7 @@ p, li, ul, div[class*="proj-"] {
 a {
   color: var(--a-color);
   text-underline-offset: 0.28em;
+  text-decoration-thickness: from-font;
 }
 
 a:hover {
