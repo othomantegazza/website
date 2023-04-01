@@ -6,6 +6,34 @@ $toc-color: var(--hover-color);
 
 /*-- scss:rules --*/
 
+@font-face {
+  font-family: lato;
+  src: url("style/Lato-Bold.ttf");
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("style/Lato-light.ttf");
+  font-weight: 200 399;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("style/Lato-BoldItalic.ttf");
+  font-weight: 400 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("style/Lato-lightItalic.ttf");
+  font-weight: 200 399;
+  font-style: italic;
+}
+
 :root {
     --main-color: black;
     --a-color: #4a77b2;
@@ -15,9 +43,7 @@ $toc-color: var(--hover-color);
 }
 
 body {
-  font-family: "Helvetica Neue";
-  letter-spacing: .7px;
-  word-spacing: -1px;
+  font-family: lato, Verdana, sans-serif;
 }
 
 .sidebar-link, .nav-link {
@@ -26,12 +52,12 @@ body {
 
 h1 {
   font-size: 3rem !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
 }
 
 h2 {
   font-size: 2.4rem;
-  font-weight: 400; 
+  font-weight: 500; 
   border: 0px;
 }
 
