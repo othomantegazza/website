@@ -15,7 +15,7 @@ $toc-color: var(--hover-color);
 
 @font-face {
   font-family: lato;
-  src: url("style/Lato-light.ttf");
+  src: url("style/Lato-Light.ttf");
   font-weight: 200 399;
   font-style: normal;
 }
@@ -29,7 +29,7 @@ $toc-color: var(--hover-color);
 
 @font-face {
   font-family: lato;
-  src: url("style/Lato-lightItalic.ttf");
+  src: url("style/Lato-LightItalic.ttf");
   font-weight: 200 399;
   font-style: italic;
 }
@@ -43,7 +43,7 @@ $toc-color: var(--hover-color);
 }
 
 body {
-  font-family: lato, Verdana, sans-serif;
+  font-family: "Helvetica Neue", lato, Verdana, sans-serif;
 }
 
 .sidebar-link, .nav-link {
