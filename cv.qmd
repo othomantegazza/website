@@ -143,7 +143,7 @@ Expert in programming for statistics and data science.
 
 Web development dedicated to communicating data and scientific results.
 
-- Reorting, publishing and dashboarding with Quarto.
+- Reporting, publishing and dashboarding with Quarto.
 - Web native dataviz with D3 and Observable.
 - Basis of generic web development.
 
