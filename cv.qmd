@@ -249,6 +249,8 @@ French A1 (beginner)
 
 ## Peer Reviewed Publications
 
+Links in [Google Scholar](https://scholar.google.com/citations?user=mDL1DEkAAAAJ).
+
 :::: {.grid .bib style="--bs-columns: 6;"}
 
 ::: {.g-col-6 .g-col-md-3}
