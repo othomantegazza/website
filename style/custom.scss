@@ -105,6 +105,14 @@ div.project-cover video, div.project-cover img, .cover {
   row-gap: 0px !important;
 }
 
+.cv-head p {
+  font-size: 2rem;
+  line-height: 1.35em !important;
+  margin-bottom: 0px;
+  font-weight: 300; 
+  color: var(--accent-color);
+}
+
 .cv ul {
   padding-left: 1rem;
 }

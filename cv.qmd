@@ -1,6 +1,13 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 ---
+
+::: {.cv-head}
+Otho Mantegazza:
+
+Research Scientist, Data Analyst.
+:::
+
 
 ## Introduction
 
