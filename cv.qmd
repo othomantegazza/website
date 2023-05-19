@@ -4,7 +4,8 @@ title: "CV"
 
 ::: {.cv-head}
 Otho Mantegazza:
-
+:::
+::: {.cv-head}
 Research Scientist, Data Analyst.
 :::
 

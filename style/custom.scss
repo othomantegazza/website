@@ -38,6 +38,7 @@ $toc-color: var(--hover-color);
     --main-color: black;
     --a-color: #4a77b2;
     --accent-color: #9e019e;
+    --accent-color-opaque: #9e019e33;
     --hover-color: #c42393;
     --accent-background: #e8d5ff;
 }
@@ -110,7 +111,8 @@ div.project-cover video, div.project-cover img, .cover {
   line-height: 1.35em !important;
   margin-bottom: 0px;
   font-weight: 300; 
-  color: var(--accent-color);
+  background-color: var(--accent-color-opaque);
+  display: inline;
 }
 
 .cv ul {
