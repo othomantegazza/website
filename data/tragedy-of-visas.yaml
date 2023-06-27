@@ -1,0 +1,13 @@
+---
+title: The Tragedy of Visas
+video_path: img/tragedy-of-visa.webm
+image_poster_path: img/tragedy-of-visa.png
+year: 2023
+place: Milan, London
+stack: Quarto, R, Observable, D3.
+url: "[LSE Firoz Lalji Institute for Africa](https://blogs.lse.ac.uk/africaatlse/2023/06/22/europe-must-make-it-easier-for-africans-to-get-visas/)"
+source: "[Github - Visa](https://github.com/othomantegazza/visa-lago-standalone-viz)"
+description: >
+  A collaboration with the [LAGO Collective](https://www.lagocollective.org/) and [Marta Foresti](https://www.linkedin.com/posts/marta-foresti-36255334_europe-must-make-it-easier-for-africans-to-activity-7077685526241124353-zAzK).
+  "In a desperate attempt to keep people away, Europe is making it so much harder for people to visit for work or leisure, at the cost of collective opportunities. Shooting itself in the foot. Literally."
+---

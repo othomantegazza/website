@@ -13,6 +13,19 @@ source(
 
 <hr>
 
+## The Tragedy of Visas
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/tragedy-of-visas.yaml'),
+  vid_cover = T
+) 
+```
+
+<hr>
+
 ## Milan Air Quality V2
   
 ```{r}
