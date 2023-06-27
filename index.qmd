@@ -6,6 +6,8 @@ title: "Hi,"
 
 Very nice to meet you, I'm Otho.
 
+Here you can find my [projects](projects.html), my [trainings](trainings.html) and my [CV](cv.html).
+
 Science, statistics and communication are my passions.
 
 I love science, it's a bright tool that we can use to satisfy our curiosity about the beautiful world that surrounds us. That's why I dedicated my studies to it, specializing with a [PhD in plant molecular genetics](cv.html#phd-candidate).
