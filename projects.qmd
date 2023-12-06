@@ -13,6 +13,19 @@ source(
 
 <hr>
 
+## Quantum Open Source Developer Survey
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/uf-report.yaml'),
+  vid_cover = T
+) 
+```
+
+<hr>
+
 ## The Tragedy of Visas
 
 ```{r}

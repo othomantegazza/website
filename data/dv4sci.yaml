@@ -1,0 +1,14 @@
+---
+title: Data visualization for scientists - Workshop 
+video_path: img/dv4sci.webm
+image_poster_path: img/dv4sci.png
+year: 2023
+place: Universty of Milan, Italy; Heinrich Heine University, Duessledorf
+stack: R, Quarto, Javascript, D3
+url: "[Material and Slides](https://dv4sci.otho.app/)"
+source: "[Github](https://github.com/othomantegazza/dataviz-for-scientists-slides/)"
+description: >
+   A workshops that spans three full days and covers: an introduction to R, the grammar of graphics,
+   exploratory data analysis, data visualization design, reproducible reporting in quarto and a very introduction 
+   to web development with JS and D3
+---

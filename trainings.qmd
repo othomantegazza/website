@@ -13,6 +13,32 @@ source(
 
 <hr>
 
+## Data Visualization for Scientists 
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/dv4sci.yaml'),
+  vid_cover = T
+)
+```
+
+<hr>
+
+## Data Visualization for Scientists in Python
+
+```{r}
+#| echo: false  
+#| results: asis 
+make_project_comp(
+  proj_yaml = here::here('data/dv4sci-py.yaml'),
+  vid_cover = T
+)
+```
+
+<hr>
+
 ## CBSER - Summer School
 
 ```{r}

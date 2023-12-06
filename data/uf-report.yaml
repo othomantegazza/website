@@ -1,0 +1,10 @@
+---
+title: "Quarto Open Source Survey"
+video_path: img/uf-report.webm
+image_poster_path: img/uf-report.png
+year: 2023
+stack: Quarto, R, D3.
+url: "[Quarto Open Source Survey](https://unitaryfund.github.io/survey-website/)"
+description: >
+  A Web report on the 2023 Survey about Quantum Open Source Developers, by [Unitary Fund](https://unitary.fund/).
+---

@@ -1,0 +1,13 @@
+---
+title: Data visualization for scientists in python - Workshop 
+video_path: img/dv4sci-py.webm
+image_poster_path: img/dv4sci-py.png
+year: 2023
+place: University of Embu, Kenya
+stack: Python, Seaborn, Quarto
+url: "[Material and Slides](https://dv4sci-py.otho.app/)"
+source: "[Github](https://github.com/othomantegazza/dataviz-for-scientists-slides-python)"
+description: >
+   A subset of the workshop above translate to python for a summer school and hackathon 
+   in computational biology
+---
