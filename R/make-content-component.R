@@ -34,12 +34,12 @@ make_project_comp <- function(proj_yaml, vid_cover = FALSE) {
           '<div class="grid" style="--bs-columns: 2;">',
             '<div class="g-col-2 g-col-sm-1 proj-description">',
               glue::glue(
-                "**Year**: {proj$year}",
-                "**Place**: {proj$place}",
-                "**Stack**: {proj$stack}",
-                "**Project URL**: {proj$url}",
-                "**Source Code**: {proj$source}",
-                .sep = "<br>"
+                ifelse(is.null(proj$year), "", "**Year**: {proj$year}<br>"),
+                ifelse(is.null(proj$place), "", "**Place**: {proj$place}<br>"),
+                ifelse(is.null(proj$stack), "", "**Stack**: {proj$stack}<br>"),
+                ifelse(is.null(proj$url), "", "**Project URL**: {proj$url}<br>"),
+                ifelse(is.null(proj$source), "", "**Source Code**: {proj$source}<br>"),
+                .sep = ""
               ),
             '</div>',
             '<div class="g-col-2 g-col-sm-1 proj-description">',
