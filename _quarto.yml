@@ -28,6 +28,8 @@ website:
         href: https://www.linkedin.com/in/otho-mantegazza/
       - icon: twitter
         href: https://twitter.com/othomn
+      - icon: mastodon
+        href: https://masto.ai/@otho
   sidebar:
     style: "docked"
     background: "white"
