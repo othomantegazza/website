@@ -3,7 +3,7 @@ title: "Hire Me"
 ---
 
 ::: cv
-Would you like to hire me for a project or a training?
+I'm currently on a full time contract, but I migh still be available for small projects and trainings:
 
 ::: {.grid style="--bs-columns: 6;"}
 ::: {.g-col-6 .g-col-sm-3}
